@@ -1,0 +1,17 @@
+[
+    {
+      "identifier": "QR001",
+      "content": "Romyliza Boado",
+      "scanDate": "2025-03-10",
+      "source": "CAM",
+      "validity": true
+    },
+    {
+      "identifier": "QR002",
+      "content": "Maxine Boado IV",
+      "scanDate": "2025-04-10",
+      "source": "CAM",
+      "validity": true
+    }
+  ]
+  
