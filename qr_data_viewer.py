@@ -14,6 +14,7 @@ PASSWORD = "admin"
 app = ctk.CTk()
 app.title("QR Scanner Viewer")
 app.geometry("640x480")
+app.iconbitmap("icon.ico")
 
 def load_data(filter_text="", selected_sort=""):
     global data
